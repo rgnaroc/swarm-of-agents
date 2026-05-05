@@ -12,7 +12,7 @@
 | 2-3 | [module_2_3_tools_memory.md](module_2_3_tools_memory.md) | Инструменты и память агентов |
 | 4-5 | [module_4_5_frameworks_multiagent.md](module_4_5_frameworks_multiagent.md) | Фреймворки и мультиагентные системы |
 | 6-7 | [module_6_7_integration_security.md](module_6_7_integration_security.md) | Интеграция и безопасность |
-| 8 | `module_8_PRODUCTION` | Продакшн (в разработке) |
+| 8 | [module_8_production_deployment.md](module_8_production_deployment.md) | Production и развёртывание |
 | 9 (бонус) | [module_9_bonus_advanced.md](module_9_bonus_advanced.md) | Продвинутые темы |
 
 ## 📋 Дополнительные материалы
@@ -43,7 +43,7 @@ swarm-of-agents/
 ├── module_2_3_tools_memory.md         # Инструменты и память
 ├── module_4_5_frameworks_multiagent.md # Фреймворки
 ├── module_6_7_integration_security.md # Интеграция и безопасность
-├── module_8_PRODUCTION                # Продакшн (TODO)
+├── module_8_production_deployment.md  # Production и развёртывание
 └── module_9_bonus_advanced.md         # Бонусные материалы
 ```
 
