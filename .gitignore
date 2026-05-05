@@ -1,1 +1,1 @@
-(empty)
+Nothing should be ignored based on the provided file changes, as they only include markdown files (.md) which are source/config files.
