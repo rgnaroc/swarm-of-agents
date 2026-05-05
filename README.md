@@ -19,6 +19,7 @@
 
 - **[ai_agents_course_plan.md](ai_agents_course_plan.md)** — Полный план курса по агентам ИИ
 - **[final_roadmap_checklists.md](final_roadmap_checklists.md)** — Итоговая дорожная карта и чек-листы
+- **[supplementary_materials/](supplementary_materials/)** — Сопутствующие материалы (шаблоны, примеры, скрипты, справочники)
 
 ## 🚀 Быстрый старт
 
@@ -39,6 +40,8 @@ swarm-of-agents/
 ├── README.md                          # Этот файл
 ├── ai_agents_course_plan.md           # План курса
 ├── final_roadmap_checklists.md        # Дорожная карта
+├── supplementary_materials/           # Сопутствующие материалы
+│   └── README.md                      # Описание дополнительных ресурсов
 ├── module_0_1_beginner_guide.md       # Основы
 ├── module_2_3_tools_memory.md         # Инструменты и память
 ├── module_4_5_frameworks_multiagent.md # Фреймворки
